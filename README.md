@@ -1,5 +1,5 @@
 # E-COMMERCE-SALES-ANALYSIS
-This repository contains the Excel report on "E=commerce sales analysis"
+This repository contains the Excel report on "E-commerce sales analysis"
 
 E-commerce sales is a critical revenue stream for many businesses and because of its digital nature,each transaction can be recorded and used to infer insights about a business and its products,proceses and customers.
 
